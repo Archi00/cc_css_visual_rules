@@ -15,7 +15,7 @@ body {
     padding-top: 100px;
     width: 100%;
     font-family: Georgia;
-
+    text-align: center;
   }
   
   h2 {
@@ -37,6 +37,8 @@ body {
     text-align: left;
     width: 100%;
     font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold; 
 
   }
   
