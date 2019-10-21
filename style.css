@@ -64,14 +64,16 @@ body {
     width: 60%;
     background-color: white;
     color: black;
+    opacity: 0.75;
   }
   
   .content {
     padding: 40px;
   }
   
+  
   .image {
-    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/soccer.jpeg");
     background-size: cover;
     background-position: center;
     height: 300px;
